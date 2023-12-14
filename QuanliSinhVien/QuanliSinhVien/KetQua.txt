@@ -1,0 +1,10 @@
+			 BANG THONG KE 
+
+  Ma Sinh Vien: 1234
+  Ten Sinh Vien: phuong
+  Gioi Tinh: nu
+  Tuoi Sinh Vien: 20
+  Diem Mon 1: 5
+  Diem Mon 2: 6
+  Diem Mon 3: 7
+  Diem Trung Binh: 6
